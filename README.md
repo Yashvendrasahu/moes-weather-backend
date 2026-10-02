@@ -359,6 +359,10 @@ This project is released under the MIT License.
 ---
 👨‍💻 Project
 WeatherFuse — Hybrid AI–NWP Multi-Model Forecast Blending & Conformal Bust Detection Engine
+
+Youtube demo video :
+https://youtu.be/FKY0YRavM88
+
 Repository:
 https://github.com/Yashvendrasahu/moes-weather-backend
 ---
